@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Righteous&display=swap');
+
+.formulario {
+  display: flex;
+  justify-content: center;
+  background: linear-gradient(#57f063,#38fa48);
+  font-family: 'Righteous', cursive;
+  margin-bottom: 50px;
+}
+
+.formulario form {
+  max-width: 80%;
+  background-color: #8ef8c3;
+  border-radius: 20px;
+  padding: 36px 64px;
+  box-shadow: 8px 8px 16px rgba(0,0,0 0,08);
+}

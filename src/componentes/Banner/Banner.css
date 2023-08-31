@@ -1,0 +1,19 @@
+.banner {
+  background: linear-gradient(#d3f8d6,#82f38b);
+  text-align: center;
+  
+}
+
+.banner img {
+  max-width: 100%;
+  width: 50vw;
+  height: 50vh;
+}
+
+
+@media (max-width:500px) {
+  .banner img {
+    width: 50vw;
+    height: 15vh;
+  }
+}
